@@ -1,6 +1,6 @@
 # Data Science Projects
 
-Welcome to the Data Science repository! This repository contains various Jupyter Notebook files showcasing different data science projects and analyses.
+Welcome to my Data Science Projects repository! This repository contains various Jupyter Notebook files showcasing different data science projects and analyses.
 
 ## Projects Included
 
