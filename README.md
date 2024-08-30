@@ -6,6 +6,7 @@ Welcome to my Data Science Projects repository! This repository contains various
 
 - **Asteroid Hazard Prediction**: A project focused on predicting potentially hazardous asteroids using machine learning techniques.
 - **CalCOFI Oceanographic Analysis**: A project analyzing long-term oceanographic data to predict water temperature based on salinity using regression techniques.
+- *Watch this space for more!*
 
 ## Technologies Used
 
