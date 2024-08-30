@@ -1,0 +1,55 @@
+# Asteroid Hazard Prediction
+
+## Overview
+
+This project focuses on predicting potentially hazardous asteroids using machine learning techniques. I utilized a dataset containing various features of near-Earth objects (NEOs) to build and evaluate classification models.
+
+## Dataset
+
+The dataset used in this project is the "Asteroid Dataset" from NASA, containing information about 4687 asteroids. Key features include:
+
+- Asteroid name
+- Estimated diameter
+- Relative velocity
+- Miss distance
+- Orbit uncertainties
+- Absolute magnitude
+
+## Methodology
+
+1. **Data Preprocessing**: Cleaning the dataset, handling missing values, and encoding categorical variables.
+2. **Exploratory Data Analysis (EDA)**: Visualizing relationships between features and the target variable (hazardous vs. non-hazardous).
+3. **Feature Engineering**: Creating new features and selecting the most relevant ones for model training.
+4. **Model Development**: Implementing and comparing multiple classification algorithms:
+   - Logistic Regression
+   - Random Forest
+   - XGBoost
+   - Support Vector Machine (SVM)
+5. **Model Evaluation**: Assessing model performance using metrics such as accuracy, precision, recall, and F1-score.
+
+## Technologies Used
+
+- Python
+- Pandas
+- NumPy
+- Scikit-learn
+- Matplotlib
+- Seaborn
+
+## Results
+
+The Random Forest classifier achieved the highest accuracy of 99% in predicting potentially hazardous asteroids. Here are other metrics:
+- Precision:  0.98
+- Recall:  1.0
+- Accuracy:  0.9999
+- F1 Score:  0.99
+
+## How to Use
+
+1. Clone this repository
+2. Install the required dependencies: `pip install -r requirements.txt`
+3. Run the Jupyter notebook: `jupyter notebook asteroid_prediction.ipynb`
+
+## Contributors
+
+Simar Malhan
