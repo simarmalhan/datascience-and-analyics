@@ -7,6 +7,7 @@ Welcome to my Data Science Projects repository! This repository contains various
 - **Asteroid Hazard Prediction**: A project focused on predicting potentially hazardous asteroids using machine learning techniques.
 - **CalCOFI Oceanographic Analysis**: A project analyzing long-term oceanographic data to predict water temperature based on salinity using regression techniques.
 - **Diabetes prediciton system with KNN Algorithm**: A diabetes prediction project that uses the KNN algorithm to assess health data and identify individuals at risk, while uncovering key factors influencing diabetes.
+- **Food Delivery Time Prediciton using Decision Tree Regressor**: A Python project that predicts food delivery time using a Decision Tree Regressor based on driver age, ratings, and delivery distance.
 
 ## Technologies Used
 
