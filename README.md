@@ -10,6 +10,7 @@ Welcome to my Data Science Projects repository! This repository contains various
 - **Food Delivery Time Prediciton using Decision Tree Regressor**: A Python project that predicts food delivery time using a Decision Tree Regressor based on driver age, ratings, and delivery distance.
 - **Credit Card Fraud Detection Using Imbalanced Dataset**: A project aimed at identifying fraudulent transactions through advanced machine learning techniques, utilizing algorithms such as Random Forest and SMOTE (Synthetic Minority Over-sampling Technique) to address class imbalance in the dataset. The model focuses on maximizing recall to ensure high detection rates of fraudulent activities while minimizing false positives, enhancing financial security for users.
 - **Exploring Musical Characteristics: K-Means Clustering of Popular Songs**: A K-Means clustering analysis of the top 953 streamed songs, highlighting patterns in musical characteristics and their relationship to streaming numbers.
+- **Liver Disease Prediction using 7 different models**: A Jupyter Notebook project implementing seven machine learning models to predict liver disease, including data preprocessing, model comparison, and performance evaluation.
 
 ## Technologies Used
 
