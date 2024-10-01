@@ -14,13 +14,18 @@ Welcome to my Data Science Projects repository! This repository contains various
 
 ## Technologies Used
 
-- Python
-- Jupyter Notebook
-- Pandas
-- NumPy
-- Scikit-learn
-- Matplotlib
-- Seaborn
+- **Programming Language**: Python
+- **Libraries**: Pandas, Numpy, Seaborn, Matplotlib, Scikit-learn, XGBoost
+- **Machine Learning Models**: 
+  - Logistic Regression
+  - K-Nearest Neighbors (KNN)
+  - Support Vector Classifier (SVC)
+  - Decision Tree
+  - Random Forest
+  - Gradient Boosting
+  - XGBoost
+- **Tools**: 
+  - Jupyter Notebook
 
 ## How to Use
 
