@@ -25,6 +25,7 @@ Welcome to my Data Science Projects repository! This repository contains various
   - Random Forest
   - Gradient Boosting
   - XGBoost
+  - AdaBoost Regressor
 - **Tools**: 
   - Jupyter Notebook
 
