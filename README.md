@@ -12,6 +12,7 @@ Welcome to my Data Science Projects repository! This repository contains various
 - **Exploring Musical Characteristics: K-Means Clustering of Popular Songs**: A K-Means clustering analysis of the top 953 streamed songs, highlighting patterns in musical characteristics and their relationship to streaming numbers.
 - **Liver Disease Prediction using 7 different models**: A Jupyter Notebook project implementing seven machine learning models to predict liver disease, including data preprocessing, model comparison, and performance evaluation.
 - **Grade Prediction using AdaBoost Regressor**: Contains a comprehensive analysis of student performance, demonstrating the use of regression models to predict grades based on various influencing factors, with an emphasis on model evaluation and performance metrics.
+- **Text summarization using NLP**: This project is about taking a text and generating a summary using libraries such as NLTK and SpaCy. I created a pipeline that preprocesses the input text, identifies key sentences to produce a concise and coherent summary, enhancing information retrieval and understanding.
 
 ## Technologies Used
 
