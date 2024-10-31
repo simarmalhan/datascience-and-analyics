@@ -13,6 +13,7 @@ Welcome to my Data Science Projects repository! This repository contains various
 - **Liver Disease Prediction using 7 different models**: A Jupyter Notebook project implementing seven machine learning models to predict liver disease, including data preprocessing, model comparison, and performance evaluation.
 - **Grade Prediction using AdaBoost Regressor**: Contains a comprehensive analysis of student performance, demonstrating the use of regression models to predict grades based on various influencing factors, with an emphasis on model evaluation and performance metrics.
 - **Text summarization using NLP**: This project is about taking a text and generating a summary using libraries such as NLTK and SpaCy. I created a pipeline that preprocesses the input text, identifies key sentences to produce a concise and coherent summary, enhancing information retrieval and understanding.
+- **Summer Olympics Data Analysis:** An exploratory data analysis of Summer Olympics history (1896-2016) examining athlete demographics, medal distributions, and performance trends across nations. The analysis reveals fascinating insights about Team USA's dominance, gender participation evolution, and age distribution patterns of Olympic athletes through interactive visualizations using Python, Pandas, Seaborn, and Plotly.
 
 ## Technologies Used
 
