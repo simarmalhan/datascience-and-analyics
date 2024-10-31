@@ -14,6 +14,7 @@ Welcome to my Data Science Projects repository! This repository contains various
 - **Grade Prediction using AdaBoost Regressor**: Contains a comprehensive analysis of student performance, demonstrating the use of regression models to predict grades based on various influencing factors, with an emphasis on model evaluation and performance metrics.
 - **Text summarization using NLP**: This project is about taking a text and generating a summary using libraries such as NLTK and SpaCy. I created a pipeline that preprocesses the input text, identifies key sentences to produce a concise and coherent summary, enhancing information retrieval and understanding.
 - **Summer Olympics Data Analysis:** An exploratory data analysis of Summer Olympics history (1896-2016) examining athlete demographics, medal distributions, and performance trends across nations. The analysis reveals fascinating insights about Team USA's dominance, gender participation evolution, and age distribution patterns of Olympic athletes through interactive visualizations using Python, Pandas, Seaborn, and Plotly.
+- **Wine EDA**: A machine learning project analyzing red wine quality using various features like acidity, pH, and alcohol content through comprehensive exploratory data analysis and stratified sampling techniques. The analysis includes data visualization using Seaborn and Matplotlib, focusing on feature distributions and quality correlations to prepare for predictive modeling.
 
 ## Technologies Used
 
