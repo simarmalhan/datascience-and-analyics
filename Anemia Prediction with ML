@@ -1,0 +1,1 @@
+A machine learning project comparing various classifiers (Logistic Regression, Random Forest, Gradient Boosting, SVM, KNN, Naive Bayes, and Decision Tree) for anemia prediction, with Random Forest achieving perfect accuracy and F1 score.
