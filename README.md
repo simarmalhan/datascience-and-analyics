@@ -4,6 +4,7 @@ Welcome to my Data Science Projects repository! This repository contains various
 
 ## Projects Included
 
+- **Cost of Studying Abroad Prediction**: Benchmarked 10 regression models to predict annual study-abroad costs, achieving top accuracy with XGBoost (R² = 0.98).
 - **Fake News Detection**: Python implementation of machine learning models to classify news articles as real or fake using scikit-learn.
 - **Anemia Prediction with Machine Learning**: A machine learning project comparing various classifiers (Logistic Regression, Random Forest, Gradient Boosting, SVM, KNN, Naive Bayes, and Decision Tree) for anemia prediction, with Random Forest achieving perfect accuracy and F1 score.
 - **Asteroid Hazard Prediction**: A project focused on predicting potentially hazardous asteroids using machine learning techniques.
