@@ -3,6 +3,7 @@
 Welcome to my Data Science Projects repository! This repository contains various Jupyter Notebook files showcasing different data science projects and analyses.
 
 ## Projects Included
+- **Prediction of Medical Expenses - EDA and Regression**: Predicting individual expenses from demographic and insurance data using advanced regression models and feature engineering in Python.
 - **Car Price Prediciton using Linear Models**: Predicting car prices using a Ridge regression model with robust feature engineering and evaluation, achieving an R² score of 0.84 on test data.
 - **Cost of Studying Abroad Prediction**: Benchmarked 10 regression models to predict annual study-abroad costs, achieving top accuracy with XGBoost (R² = 0.98).
 - **Fake News Detection**: Python implementation of machine learning models to classify news articles as real or fake using scikit-learn.
